@@ -4,7 +4,9 @@ A brief video overview
 
 
 
-https://github.com/caxtonmbuvi/shoesly/assets/57038806/bfe17203-e27e-4fe8-82e4-977318e70e6c
+https://github.com/caxtonmbuvi/shoesly/assets/57038806/f6ed0384-e199-42bc-babf-f6c295357a5a
+
+
 
 
 
