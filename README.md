@@ -2,7 +2,11 @@
 
 A brief video overview
 
-/Users/caxtonmbuvi/Flutter_Apps/shoesly/assets/images/WhatsApp Video 2024-05-18 at 10.35.43.mp4
+
+
+https://github.com/caxtonmbuvi/shoesly/assets/57038806/bfe17203-e27e-4fe8-82e4-977318e70e6c
+
+
 
 A comprehensive shoe commerce application built with Flutter and Firebase, featuring product listing, cart management, and payment processing.
 
