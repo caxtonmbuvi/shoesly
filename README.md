@@ -1,4 +1,8 @@
-# Shoe Commerce App with Flutter and Firebase
+# Shoesly Commerce App with Flutter and Firebase
+
+A brief video overview
+
+/Users/caxtonmbuvi/Flutter_Apps/shoesly/assets/images/WhatsApp Video 2024-05-18 at 10.35.43.mp4
 
 A comprehensive shoe commerce application built with Flutter and Firebase, featuring product listing, cart management, and payment processing.
 
